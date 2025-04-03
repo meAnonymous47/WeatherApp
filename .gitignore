@@ -1,5 +1,5 @@
 # Ignore Eclipse project files
-.settings/
-.classpath
-.project
-.factorypath
+#.settings/
+#.classpath
+#.project
+#.factorypath
